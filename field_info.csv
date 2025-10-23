@@ -1,0 +1,39 @@
+name,sport_type,location,address,size,surface,price_per_90min,opening_time,closing_time
+Gulshan Youth Club,football,Gulshan-2,"Road:109,Play ground, Dhaka 1212",7-a-side,Artificial Turf,8000,9am,10pm
+Gulshan Youth Club,badminton,Gulshan-2,"Road:109,Play ground, Dhaka 1212",Full Size,Indoor Court,5000,9am,10pm
+Gulshan Youth Club,table tennis,Gulshan-2,"Road:109,Play ground, Dhaka 1212",Full Size,Indoor Court,3000,9am,10pm
+Gulshan Youth Club,basketball,Gulshan-2,"Road:109,Play ground, Dhaka 1212",Full Size,Outdoor Court,3000,9am,10pm
+Swat FC Field,football,Banani,"QCR3+QXQ, Dhaka 1212",7-a-side,Grass,1000,9am,6pm
+JAFF Arena & Academy,football,Bashundhara,"RC6F+RR6, Bashundhara Main Gate, Dhaka 1229",5-a-side,Artificial Turf,6000,6:30am,11pm
+Sports Grill,football,Bashundhara,"Plot- 17/K Road-9, Dhaka 1229",7-a-side,Artificial Turf,7000,6:30am,10pm
+NDE Sports Facility,football,Bashundhara,"RCGM+67M, Rd - 5, Dhaka 1229",5-a-side,Artificial Turf,5000,8:30am,10pm
+NDE Sports Facility,cricket,Bashundhara,"RCGM+67M, Rd - 5, Dhaka 1229",Full Size,Artificial Turf,5000,8:30am,10pm
+A&A MS Ground Venue-1,football,Khilkhet,"RCMM+GJ2 Lake City Concord, ????? ???????? ???, Dhaka 1229",11-a-side,Grass,6000,8am,10pm
+A&A MS Ground Venue-1,football,Khilkhet,"RCMM+GJ2 Lake City Concord, ????? ???????? ???, Dhaka 1229",5-a-side,Artificial Turf,5000,8am,10pm
+Dhaka Arena,football,Purbachal,"Road - 8, Swadesh Shornali Abashon, Purbachal 300ft express road, Dhaka",11-a-side,Grass,6000,7pm,11pm
+Chef's Table Courtside,football,100ft,"100 feet road Madani Ave, Dhaka",5-a-side,Artificial Turf,5000,11am,11pm
+Chef's Table Courtside,football,100ft,"100 feet road Madani Ave, Dhaka",7-a-side,Grass,9000,11am,11pm
+False Nine,football,100ft,"Madani Ave, Dhaka 1212",5-a-side,Artificial Turf,5000,11am,11pm
+ATHLETE'S HUB,football,100ft,"100 Feet Road, Beraid Bridge, Dhaka",7-a-side,Artificial Turf,5000,8am,11pm
+ATHLETE'S HUB,badminton,100ft,"100 Feet Road, Beraid Bridge, Dhaka",Full Size,Outdoor Court,3000,8am,11pm
+ATHLETE'S HUB,paddle,100ft,"100 Feet Road, Beraid Bridge, Dhaka",Full Size,Outdoor Court,3000,8am,11pm
+ATHLETE'S HUB,cricket,100ft,"100 Feet Road, Beraid Bridge, Dhaka",Full Size,Artificial Turf,4000,8am,11pm
+Metroplex Sporting,cricket,Purbachal,"RCPX+6QJ, Dhaka 1219",Full Size,Indoor Court,5000,10am,11pm
+Metroplex Sporting,football,Purbachal,"RCPX+6QJ, Dhaka 1219",5-a-side,Artificial Turf,7000,10am,11pm
+Metroplex Sporting,badminton,Purbachal,"RCPX+6QJ, Dhaka 1219",Full Size,Indoor Court,4000,10am,11pm
+Nutmeg Field,football,100ft,"Sunvalley Abashon-Swadesh-Project, Road:5/A Block:B, Dhaka",11-a-side,Grass,7000,10am,11pm
+Pacific Sports Ground,football,Bashundhara,"Plot 965-1004, Road No. 15, Dhaka 1215",7-a-side,Artificial Turf,6000,10am,11pm
+Bashundhara Sports City,football,Bashundhara,"Plot -01, Block N,
+Bashundhara R/A, Dhaka-1229",7-a-side,Artificial Turf,6000,10am,11pm
+Bashundhara Sports City,cricket,Bashundhara,"Plot -01, Block N,
+Bashundhara R/A, Dhaka-1229",Full Size,Artificial Turf,10000,10am,11pm
+Bashundhara Sports City,badminton,Bashundhara,"Plot -01, Block N,
+Bashundhara R/A, Dhaka-1229",Full Size,Indoor Court,5000,10am,11pm
+Bashundhara Sports City,paddle,Bashundhara,"Plot -01, Block N,
+Bashundhara R/A, Dhaka-1229",Full Size,Outdoor Court,8000,10am,11pm
+Chattoturf Bashundhara,football,Bashundhara,"Bashundhara R/A , Dhaka , B222 Road No 6, Dhaka 1229",5-a-side,Artificial Turf,5000,10am,11pm
+OFFSIDE,football,Vatara,"422 Abdus Sobhan Dhali Rd, Dhaka 1212",5-a-side,Artificial Turf,6000,10am,11pm
+DBox Sports Complex,football,Mirpur,"Plot no 217, Block, B B Rd No. 3, Dhaka 1216",5-a-side,Artificial Turf,6000,10am,11pm
+GreenVill Futsal,football,100ft,"East of Chef's Table & United House, Madani Avenue, Satarkul (100 feet, 3 km East of US Embassy, Dhaka 1212",5-a-side,Artificial Turf,5000,10am,11pm
+Amin Mohammad Cricket Club (AMCC),cricket,100ft,"Satarkul, 100 feet road, Madani Ave, Dhaka",Full Size,Grass,7000,10am,11pm
+Tackle Ground,football,Banasree,"13, Block - N, Plot No- 17, Road No - Avenue, Sector- 3 Jahurul Islam City, Dhaka 1212",7-a-side,Artificial Turf,5000,10am,11pm
